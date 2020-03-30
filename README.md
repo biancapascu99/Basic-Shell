@@ -7,4 +7,4 @@
 * _void executeAsync(char** buf,int nr)_ – executa comenzi asincrone
 * _void executeRedirect(char** buf,int nr,int mode)_ – redirectionare de fisiere; redirectionare output spre fisier si redirectioneaza fisierul spre input
 
-**Pentru rulare:  gcc ProiectShell.c –o Proiect -lreadline***
+***Pentru rulare:  gcc ProiectShell.c –o Proiect -lreadline***
